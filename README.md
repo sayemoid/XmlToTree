@@ -89,4 +89,4 @@ So department XMLNode object with `department` attribute will have label set as 
 
 
 ## Output
-![https://i.imgur.com/wozWTJN.png](img.png)
+![img.png](https://i.imgur.com/wozWTJN.png)
