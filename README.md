@@ -4,7 +4,7 @@ Parse a XML file or XML string and returns List&lt;XmlNode>
 # jsontotable
 This library converts json object or array to html table
 
-[![](https://jitpack.io/v/sayemkcn/jsontotable.svg)](https://jitpack.io/#sayemkcn/jsontotable)
+[![](https://jitpack.io/v/sayemkcn/XmlToTree.svg)](https://jitpack.io/#sayemkcn/XmlToTree)
 
 #### Maven
 * Add Jitpack repository if not added already
